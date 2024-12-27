@@ -30,4 +30,4 @@ This project demonstrates the creation and use of **REST APIs** in Spring Boot. 
 ## **How to Run**  
 1. Clone this repository:  
    ```bash  
-   git clone <repository-url>  
+   git clone https://github.com/deepakmali-09/rest-api-p01.git 
